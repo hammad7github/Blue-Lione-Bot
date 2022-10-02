@@ -36,9 +36,9 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['923132901402'] //ur owner number
-global.ownername = "Hammad B  " //ur owner name
+global.ownername = "Hammad B " //ur owner name
 global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -63,7 +63,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['923132901402']
 global.ownertag = '923132901402' //ur tag number
-global.botname = '📶 𝐇𝐀𝐌𝐌𝐀𝐃 𝐇 𝐁  📶' //ur bot name
+global.botname = '📶𝐇𝐀𝐌𝐌𝐀𝐃 𝐇 𝐁📶' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
